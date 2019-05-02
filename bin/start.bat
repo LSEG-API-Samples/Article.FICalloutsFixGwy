@@ -1,4 +1,5 @@
-set QFJ_HOME=C:\FICalloutsFixGwy
+set QFJ_BIN=%~dp0
+set QFJ_HOME=%QFJ_BIN%../
 set LIBS=%QFJ_HOME%\libs
 set APP=com.thomsonreuters.atr.rawlings.Rawlings
 set LOGBACKCFG="-Dlogback.configuration=%QFJ_HOME%\config\logback.xml"
