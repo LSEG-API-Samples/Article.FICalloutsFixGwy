@@ -10047,5 +10047,6 @@
     <field number="31762" name="TRAccruedAmountFracDigits" type="INT"/>
     <field number="31764" name="TRIsReportable" type="STRING"/>
     <field number="31777" name="TRLegPricingFactor" type="QTY"/>
+    <field number="31155" name="TRDirection" type="STRING”/>
   </fields>
 </fix>
