@@ -12,6 +12,9 @@ To get this running:
     * Change `TCID=[YOUR_TCID]` to the appropriate TCID.
 1. Save the file.
 1. Go to the `bin` directory and run `start.bat` (Windows) or `start.sh` (Unix).
+1. The Gateway server will start and you will automatically be connected to FIX session at the remote host:port for compid you configured.
+1. To stop the FIX connection just exit or stop the Gateway server.
+
 
 
 
