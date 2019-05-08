@@ -583,6 +583,7 @@
       <field name="TRInCompetition" required="N"/>
       <field name="TRTzDealAcceptDate" required="N"/>
       <field name="TRTradeDate" required="N"/>
+      <field name=“TRDirection” required=“N”/>
     </message>
     <message name="OrderMassStatusRequest" msgtype="AF" msgcat="app">
       <field name="MassStatusReqID" required="Y"/>
